@@ -48,8 +48,15 @@ Here’s a screenshot of the **Login Page**:
 
 ---
 
-## Login Page
+## Home Page
 
-Here’s a screenshot of the **Login Page**:  
+Here’s a screenshot of the **Home Page**:  
 
-![Login Page Screenshot](https://github.com/user-attachments/assets/e1edc981-40af-494b-84d3-5b7380841739)
+![Screenshot 2025-01-16 011524](https://github.com/user-attachments/assets/62074453-314d-4d8d-a3e7-42187a63d563)
+
+## Home Page
+
+Here’s a screenshot of the **Home Page**:  
+
+![Screenshot 2025-01-16 011524](https://github.com/user-attachments/assets/62074453-314d-4d8d-a3e7-42187a63d563)
+
