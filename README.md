@@ -54,9 +54,10 @@ Here’s a screenshot of the **Home Page**:
 
 ![Screenshot 2025-01-16 011524](https://github.com/user-attachments/assets/62074453-314d-4d8d-a3e7-42187a63d563)
 
-## Home Page
+## Comment Analysis Page
 
-Here’s a screenshot of the **Home Page**:  
+Here’s a screenshot of the **Comment Analysis Page**:  
 
-![Screenshot 2025-01-16 011524](https://github.com/user-attachments/assets/62074453-314d-4d8d-a3e7-42187a63d563)
+![Screenshot 2025-01-16 011551](https://github.com/user-attachments/assets/a397e9fe-c53d-4826-951e-4d36824d5618)
+
 
