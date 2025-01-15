@@ -43,9 +43,8 @@ You don't have to ever use eject. The curated feature set is suitable for small 
 
 ## GUI
 
-Here’s a screenshot of the **GUI**:  
-
-
+Here’s a screenshot of the **Login Page**:  
+![Login Page Screenshot 2025-01-16 011509](https://github.com/user-attachments/assets/decab3c1-839e-4255-b210-463f0ca78ee0)
 
 ---
 
